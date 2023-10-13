@@ -2,6 +2,10 @@
 #include <iostream>
 #include <math.h>
 
+
+
+
+
 using namespace std;
 
  int perv_a()
